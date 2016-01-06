@@ -1,0 +1,22 @@
+
+PiezoServo BOM:
+
+Power source:
+    1.5V Power converter:
+        -link: https://www.sparkfun.com/products/12889
+MicroController:
+    1.Arduino uno: 
+        -link: https://www.sparkfun.com/products/11021
+Components:
+    1.Piezo element:
+        -link: https://www.sparkfun.com/products/10293
+        -additional:
+            -1M ohm resistor:
+                -link: https://www.sparkfun.com/products/11853
+    2.LED - RGB Clear Common Anode:
+        -link: https://www.sparkfun.com/products/10820
+        -additional:
+            -330 ohm resistor:
+                -qty: 3
+                -link: https://www.sparkfun.com/products/8377
+    
