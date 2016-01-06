@@ -1,6 +1,4 @@
 
-PiezoServo BOM:
-
 Power source:
     1.5V Power converter:
         -link: https://www.sparkfun.com/products/12889
